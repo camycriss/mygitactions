@@ -1,2 +1,2 @@
 # mygitactions
-Repository for github actions testing
+Repository for GitHub actions testing
